@@ -84,7 +84,7 @@ namespace BTL_HDH_
         }
 
         // Hàm xử lý nút Shutdown
-        private void btShotdow_Click(object sender, EventArgs e)
+        private void btShutdow_Click(object sender, EventArgs e)
         {
             statustext = "Máy sẽ shutdow trong: ";
             LoadStatusStrip();
