@@ -1,0 +1,11 @@
+D:\School\HDH\BTL_HDH_\BTL_HDH_\bin\Debug\BTL_HDH_.exe.config
+D:\School\HDH\BTL_HDH_\BTL_HDH_\bin\Debug\BTL_HDH_.exe
+D:\School\HDH\BTL_HDH_\BTL_HDH_\bin\Debug\BTL_HDH_.pdb
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.csproj.AssemblyReference.cache
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.csproj.SuggestedBindingRedirects.cache
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.Form1.resources
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.Properties.Resources.resources
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.csproj.GenerateResource.cache
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.csproj.CoreCompileInputs.cache
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.exe
+D:\School\HDH\BTL_HDH_\BTL_HDH_\obj\Debug\BTL_HDH_.pdb
